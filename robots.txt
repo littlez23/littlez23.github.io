@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://littlez23.github.io/sitemap.xml
